@@ -1,4 +1,4 @@
-# tech-love-connectaaaaaababb
+# REPLACE_WITH_PROJECT_NAME
 
 REPLACE_WITH_PROJECT_DESCRIPTION
 
@@ -19,8 +19,8 @@ REPLACE_WITH_TECH_STACK_POINTS
 ## Setup
 
 ```sh
-git clone https://github.com/GPT-Engineer-App-Dev/tech-love-connect.git
-cd tech-love-connectaaaaaababb
+git clone REPLACE_WITH_GIT_URL
+cd REPLACE_WITH_PROJECT_NAME
 npm i
 ```
 
